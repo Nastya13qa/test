@@ -1,2 +1,4 @@
 # Hello, world!
-# I study
+I study
+
+Git is great
